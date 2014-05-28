@@ -1,0 +1,2 @@
+equi-automatic-download
+=======================
